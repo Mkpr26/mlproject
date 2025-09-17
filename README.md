@@ -9,9 +9,13 @@ A full machine learning workflow project that demonstrates building, training, e
 ## 🔍 Repository Structure
 mlproject/
 ├── src/ # Source code: modules for preprocessing, model training, evaluation
+
 ├── setup.py # For package installation
+
 ├── requirements.txt # Python package dependencies
+
 ├── README.md # Project documentation
+
 ├── LICENSE # License file
 
 Manish Kumar
